@@ -4,8 +4,7 @@ Até  hexadecimal FF
 
 Contador utilizando materiais:
 
-Jumper (fios);
-
+Jumper (fios);\n
 Display 7 segmentos anodo;
 
 Arduino UNO;
