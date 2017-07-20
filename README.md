@@ -1,7 +1,8 @@
 # Contador binário com arduino em hexadecimal
 
+Link do projeto no simulador:https://circuits.io/circuits/3243825-trabalho-sd-final-reset#breadboard
 
-Até  hexadecimal FF
+#Contador até hexadecimal FF
 
 Contador utilizando materiais:
 
