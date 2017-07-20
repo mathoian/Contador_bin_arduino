@@ -1,10 +1,12 @@
 # Contador binário com arduino em hexadecimal
 
+
 Até  hexadecimal FF
 
 Contador utilizando materiais:
 
-Jumper (fios);\n
+Jumper (fios);
+
 Display 7 segmentos anodo;
 
 Arduino UNO;
